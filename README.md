@@ -5,7 +5,9 @@ monitor the power consumption of the users, generate the monthly bills and autom
 users, and accept the online payments from the users. 
 
 Problem
+
 The number of stakeholders of EG is growing and the current system is not scalable.
 
 Aim
+
 The aim of the project is to develop a highly scalable online platform for the EG to cater all the users. 
